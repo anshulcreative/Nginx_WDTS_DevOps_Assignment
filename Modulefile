@@ -1,0 +1,6 @@
+name    'propertybase-openresty'
+version '1.0'
+author 'Anshul Gupta'
+summary 'Manifest to install openresty '
+description 'Install OpenResty with the following modules: - HTTP SSL - Lua JIT - PCRE and PCRE JIT'
+project_page 'http://openresty.org/'
